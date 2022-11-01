@@ -1,0 +1,113 @@
+.fondo-page1 {
+    background-image: url(assets/images/fondo1.jpg);
+    height: auto;
+} 
+
+.img-redonda-perfil {
+    width: 350px;
+    height: 350px;
+    border-radius:350px;
+    border: 4px;
+}
+
+.img-Redonda {
+    width: 200px;
+    height:200px;
+    border-radius:250px;
+    border:4px solid deeppink;
+}
+
+.fondo-page2 {
+    background-image: url(assets/images/fondo2.png);
+    height: auto;
+} 
+
+.fondo-page3 {
+    background-color: #33ff8f;
+    height: auto;
+}
+
+.fondo-page4 {
+    background-color: white;
+    height: auto;
+}
+
+.color-primario {
+    background-color: darkmagenta !important;
+    color: whitesmoke !important;
+}
+
+.espacio-superior {
+    margin-top: 2%;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FFC139;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+
+h5 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+
+h6 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+.font-amarillo {
+    color: #FFC139 !important;
+}
+
+
+
+.imgRedonda {
+    width: 200px;
+    height:200px;
+    border-radius:250px;
+    border:4px solid deeppink;
+}
+
+.color-link, .color-link:hover {
+    text-decoration: none;
+    color: black
+}
+
+#web img:hover {
+    transform: scale(2);
+}
+
+#estudios img {
+    width: auto;
+    height: auto;
+}
+
+#estudios1 img {
+    width: 400px;
+    height: 400px;
+}
+
+#habilidades img {
+    width: auto;
+    height: auto;
+}
+
+#certificados img {
+    width: auto;
+    height: auto;
+}
+
+#practicas img {
+    width: auto;
+    height: auto;
+}
